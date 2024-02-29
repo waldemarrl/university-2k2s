@@ -1,0 +1,74 @@
+﻿<Window x:Class="lab9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab9"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="MainWindow" Height="800" Width="1400">
+    <Grid UseLayoutRounding="False" Background="LightGray" MaxHeight="1434141" MaxWidth="134431">
+
+        <DataGrid x:Name="table" Margin="0,249,0,-1" 
+                  Background="SlateBlue" BorderBrush="White" IsReadOnly="True" 
+                  AutoGenerateColumns="False" FontSize="14" CanUserAddRows="False">
+
+            <DataGrid.Columns>
+
+                <DataGridTextColumn Header="ID_AUTHOR" Width="*" Binding="{Binding ID_AUTHOR}"/>
+                <DataGridTextColumn Header="FIO_AUTHOR" Width="*"  Binding="{Binding FIO}"/>
+
+                <DataGridTextColumn Header="ID_BOOK" Width="*" Binding="{Binding ID_BOOK}"/>
+                <DataGridTextColumn Header="NAME_BOOK" Width="*" Binding="{Binding NAME_BOOK}"/>
+                <DataGridTextColumn Header="THE_YEAR_OF_PUBLISHING" Width="*" Binding="{Binding THE_YEAR_OF_PUBLISHING }"/>
+                <DataGridTextColumn Header="COUNT_BOOKS" Width="*"  Binding="{Binding COUNT_BOOKS}" />
+
+                <DataGridTextColumn Header="ID_EDITION" Width="*"  Binding="{Binding ID_EDITION}"/>
+                <DataGridTextColumn Header="DATE_EDITION" Width="*"  Binding="{Binding DATE_EDITION}"/>
+                <DataGridTextColumn Header="DATE_SURRENDER" Width="*" Binding="{Binding DATE_SURRENDER}"/>
+
+            </DataGrid.Columns>
+
+        </DataGrid>
+
+        <Button x:Name="insertButton" Content="INSERT" HorizontalAlignment="Left" 
+                Height="65" Margin="30,23,0,0" VerticalAlignment="Top" Width="172"
+                BorderBrush="Black" Background="White" FontSize="18" 
+                FontWeight="Bold" Foreground="#FF505050" Click="insertButton_Click"/>
+
+        <Button x:Name="deleteButton" Content="DELETE" HorizontalAlignment="Left" 
+                Height="65" Margin="220,23,0,0" VerticalAlignment="Top" Width="172" 
+                BorderBrush="Black" Background="White" FontSize="18" 
+                FontWeight="Bold" Foreground="#FF505050" Click="deleteButton_Click"/>
+
+        <Button x:Name="updateButton" Content="UPDATE" HorizontalAlignment="Left" 
+                Height="65" Margin="410,23,0,0" VerticalAlignment="Top" Width="172" 
+                BorderBrush="Black" Background="White" FontSize="18" 
+                FontWeight="Bold" Foreground="#FF505050" Click="updateButton_Click"/>
+
+        <Button x:Name="viewButton" Content="VIEW" HorizontalAlignment="Left" 
+                Height="65" Margin="598,23,0,0" VerticalAlignment="Top" Width="172" 
+                BorderBrush="Black" Background="White" FontSize="18" 
+                FontWeight="Bold" Foreground="#FF505050" Click="viewButton_Click"/>
+
+        <Button x:Name="selectButton" Content="SELECT" HorizontalAlignment="Left" 
+                Height="65" Margin="788,23,0,0" VerticalAlignment="Top" Width="172" 
+                BorderBrush="Black" Background="White" FontSize="18" 
+                FontWeight="Bold" Foreground="#FF505050" Click="selectButton_Click"/>
+
+        <Button x:Name="back" Content="BACK" HorizontalAlignment="Left" Height="65" 
+                Margin="1225,23,0,0" VerticalAlignment="Top" Width="65" 
+                BorderBrush="Black" Background="White" FontSize="18" 
+                FontWeight="Bold" Foreground="#FF505050" Click="back_Click"/>
+
+        <Button x:Name="next" Content="NEXT" HorizontalAlignment="Left" Height="65" 
+                Margin="1307,23,0,0" VerticalAlignment="Top" Width="65" 
+                BorderBrush="Black" Background="White" FontSize="18" 
+                FontWeight="Bold" Foreground="#FF505050" Click="next_Click"/>
+
+        <Rectangle HorizontalAlignment="Left" Height="72" Margin="788,100,0,0" Stroke="Black" VerticalAlignment="Top" Width="172" Fill="AliceBlue"/>
+        <Label Content="COUNT" HorizontalAlignment="Left" Margin="838,97,0,0" VerticalAlignment="Top" Foreground="#FF505050" FontWeight="Bold" FontSize="18"/>
+        <TextBox x:Name="booksTextBox" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="822,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="104" Height="32" Background="Gainsboro" BorderBrush="Black" FontSize="16"/>
+    </Grid>
+
+</Window>

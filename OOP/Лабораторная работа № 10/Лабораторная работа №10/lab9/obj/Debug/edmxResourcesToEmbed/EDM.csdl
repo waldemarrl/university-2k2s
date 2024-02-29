@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DataBaseLaba8Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="AUTHORS">
+    <Key>
+      <PropertyRef Name="ID_AUTHOR" />
+    </Key>
+    <Property Name="ID_AUTHOR" Type="Int32" Nullable="false" />
+    <Property Name="FIO" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="BOOKS" Relationship="Self.FK__BOOKS__ID_AUTHOR__619B8048" FromRole="AUTHORS" ToRole="BOOKS" />
+  </EntityType>
+  <EntityType Name="BOOKS">
+    <Key>
+      <PropertyRef Name="ID_BOOK" />
+    </Key>
+    <Property Name="ID_BOOK" Type="Int32" Nullable="false" />
+    <Property Name="NAME_BOOK" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ID_AUTHOR" Type="Int32" />
+    <Property Name="THE_YEAR_OF_PUBLISHING" Type="Int32" />
+    <Property Name="COUNT_BOOKS" Type="Int32" />
+    <NavigationProperty Name="AUTHORS" Relationship="Self.FK__BOOKS__ID_AUTHOR__619B8048" FromRole="BOOKS" ToRole="AUTHORS" />
+    <NavigationProperty Name="EDITION" Relationship="Self.FK__EDITION__ID_BOOK__656C112C" FromRole="BOOKS" ToRole="EDITION" />
+  </EntityType>
+  <EntityType Name="EDITION">
+    <Key>
+      <PropertyRef Name="ID_EDITION" />
+    </Key>
+    <Property Name="ID_EDITION" Type="Int32" Nullable="false" />
+    <Property Name="ID_BOOK" Type="Int32" />
+    <Property Name="DATE_EDITION" Type="Int32" />
+    <Property Name="DATE_SURRENDER" Type="Int32" />
+    <NavigationProperty Name="BOOKS" Relationship="Self.FK__EDITION__ID_BOOK__656C112C" FromRole="EDITION" ToRole="BOOKS" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK__BOOKS__ID_AUTHOR__619B8048">
+    <End Role="AUTHORS" Type="Self.AUTHORS" Multiplicity="0..1" />
+    <End Role="BOOKS" Type="Self.BOOKS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AUTHORS">
+        <PropertyRef Name="ID_AUTHOR" />
+      </Principal>
+      <Dependent Role="BOOKS">
+        <PropertyRef Name="ID_AUTHOR" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EDITION__ID_BOOK__656C112C">
+    <End Role="BOOKS" Type="Self.BOOKS" Multiplicity="0..1" />
+    <End Role="EDITION" Type="Self.EDITION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BOOKS">
+        <PropertyRef Name="ID_BOOK" />
+      </Principal>
+      <Dependent Role="EDITION">
+        <PropertyRef Name="ID_BOOK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DataBaseLaba8Entities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AUTHORS" EntityType="Self.AUTHORS" />
+    <EntitySet Name="BOOKS" EntityType="Self.BOOKS" />
+    <EntitySet Name="EDITION" EntityType="Self.EDITION" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <AssociationSet Name="FK__BOOKS__ID_AUTHOR__619B8048" Association="Self.FK__BOOKS__ID_AUTHOR__619B8048">
+      <End Role="AUTHORS" EntitySet="AUTHORS" />
+      <End Role="BOOKS" EntitySet="BOOKS" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EDITION__ID_BOOK__656C112C" Association="Self.FK__EDITION__ID_BOOK__656C112C">
+      <End Role="BOOKS" EntitySet="BOOKS" />
+      <End Role="EDITION" EntitySet="EDITION" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

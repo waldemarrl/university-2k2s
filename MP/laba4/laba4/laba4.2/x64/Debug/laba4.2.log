@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\My File\belstu\2k2s\MP\laba4\laba4\laba4.2\Source.cpp(60,60): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+E:\My File\belstu\2k2s\MP\laba4\laba4\laba4.2\Source.cpp(60,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  laba4.2.vcxproj -> E:\My File\belstu\2k2s\MP\laba4\laba4\x64\Debug\laba4.2.exe

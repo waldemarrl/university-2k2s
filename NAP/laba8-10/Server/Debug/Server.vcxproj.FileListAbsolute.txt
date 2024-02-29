@@ -1,0 +1,3 @@
+D:\uni\ксис\Lab8-10\Server\Debug\ConcurrentServer.exe
+E:\Belstu\2k2s\NAP\Lab8-10\Server\Debug\ConcurrentServer.exe
+E:\Belstu\2k2s\NAP\PLab8-10\Server\Debug\ConcurrentServer.exe

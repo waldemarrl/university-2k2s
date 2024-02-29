@@ -1,0 +1,6 @@
+﻿  RemoteConsole.cpp
+E:\Belstu\2k2s\NAP\PLab8-10\RemoteConsole\RemoteConsole.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+E:\Belstu\2k2s\NAP\PLab8-10\RemoteConsole\RemoteConsole.cpp(1): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+E:\Belstu\2k2s\NAP\PLab8-10\RemoteConsole\RemoteConsole.cpp(3,1): message : использование предварительно скомпилированного заголовка
+E:\Belstu\2k2s\NAP\PLab8-10\RemoteConsole\RemoteConsole.cpp(29,6): warning C4101: n: неиспользованная локальная переменная
+  RemoteConsole.vcxproj -> E:\Belstu\2k2s\NAP\PLab8-10\Server\Debug\RemoteConsole.exe

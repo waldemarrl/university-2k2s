@@ -1,0 +1,206 @@
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Лабораторная работа № 11.exe.config
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Лабораторная работа № 11.exe
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Лабораторная работа № 11.pdb
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\EntityFramework.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\EntityFramework.SqlServer.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Identity.Client.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Newtonsoft.Json.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Buffers.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Collections.Immutable.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Memory.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Numerics.Vectors.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\EntityFramework.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\EntityFramework.SqlServer.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Identity.Client.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Newtonsoft.Json.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Buffers.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Collections.Immutable.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Memory.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Numerics.Vectors.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\ru\EntityFramework.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11.csproj.AssemblyReference.cache
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11.csproj.SuggestedBindingRedirects.cache
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\MainWindow.g.cs
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\App.g.cs
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11_Content.g.cs
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11_MarkupCompile.cache
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11_MarkupCompile.lref
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\MainWindow.baml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11.g.resources
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная_работа___11.Properties.Resources.resources
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11.csproj.GenerateResource.cache
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11.csproj.CoreCompileInputs.cache
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11.csproj.CopyComplete
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11.exe
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11.pdb
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Лабораторная работа № 11.exe.config
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Лабораторная работа № 11.exe
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Лабораторная работа № 11.pdb
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\EntityFramework.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\EntityFramework.SqlServer.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Identity.Client.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Newtonsoft.Json.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Buffers.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Collections.Immutable.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Memory.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Numerics.Vectors.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\EntityFramework.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\EntityFramework.SqlServer.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.Identity.Client.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\Newtonsoft.Json.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Buffers.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Collections.Immutable.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Memory.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Numerics.Vectors.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\ru\EntityFramework.resources.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11.csproj.AssemblyReference.cache
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11.csproj.SuggestedBindingRedirects.cache
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\MainWindow.g.cs
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\App.g.cs
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11_Content.g.cs
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11_MarkupCompile.cache
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11_MarkupCompile.lref
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\MainWindow.baml
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11.g.resources
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная_работа___11.Properties.Resources.resources
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11.csproj.GenerateResource.cache
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11.csproj.CoreCompileInputs.cache
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11.csproj.CopyComplete
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11.exe
+E:\Belstu\2k2s\OOP\Лабораторная работа № 11\Лабораторная работа № 11\Лабораторная работа № 11\obj\Debug\Лабораторная работа № 11.pdb

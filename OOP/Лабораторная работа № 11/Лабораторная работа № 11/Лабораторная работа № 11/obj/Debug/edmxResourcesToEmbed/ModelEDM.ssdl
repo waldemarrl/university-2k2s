@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище DataBaseLaba11Model" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="SHOP">
+    <Key>
+      <PropertyRef Name="ID_PRODUCT" />
+    </Key>
+    <Property Name="ID_PRODUCT" Type="int" Nullable="false" />
+    <Property Name="NAME_PRODUCT" Type="nvarchar" MaxLength="100" />
+    <Property Name="PRICE_PRODUCT" Type="int" />
+    <Property Name="COUNT_PRODUCT" Type="int" />
+  </EntityType>
+  <EntityContainer Name="Хранилище DataBaseLaba11ModelContainer">
+    <EntitySet Name="SHOP" EntityType="Self.SHOP" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

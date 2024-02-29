@@ -1,0 +1,97 @@
+﻿<Window x:Class="Лабораторная_работа___4_5.ShowProduct"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Лабораторная_работа___4_5"
+      mc:Ignorable="d" 
+      Title="Наши продукты" Height="520" Width="1400" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Foreground ="white">
+
+    <Window.Resources>
+        <Style x:Key="MyButtonStyle">
+            <Style.Triggers>
+                <MultiTrigger>
+                    <MultiTrigger.Conditions>
+                        <Condition Property="Control.IsFocused" Value="True"></Condition>
+                        <Condition Property="Control.IsMouseOver" Value="True"></Condition>
+                    </MultiTrigger.Conditions>
+                    <MultiTrigger.Setters>
+                        <Setter Property="Control.Foreground" Value="DarkBlue"></Setter>
+                        <Setter Property="Control.FontSize" Value="20"></Setter>
+                    </MultiTrigger.Setters>
+                </MultiTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    
+    
+    <Grid Background="White">
+
+        <Grid Height="60" VerticalAlignment ="Top" Background="CadetBlue">
+            <TextBlock Text="{DynamicResource allProduct}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10 0">
+                <Button x:Name="ButtonCloseApp" Height="30" Width="30" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" Click="ButtonCloseApp_Click">
+                    <Image Source="Resources/close.png"/>
+                </Button>
+            </StackPanel>
+        </Grid>
+        
+        <Grid x:Name="MainRoot">
+            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="520"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="200"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Row="1" Grid.Column="0">
+                <Button x:Name="addProduct"  Background="#FF4572A0"  Content="{DynamicResource add}"  Height="52" Foreground="White" FontSize="18" Margin="10 15 10 15" Click="addProduct_Click"></Button>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Grid.Column="1">
+                <Button x:Name="ChangeProduct"  Background="#FF4572A0"  Content="{DynamicResource edit}"  Height="52" Foreground="White" FontSize="18" Margin="10 15 10 15" Click="ChangeProduct_Click"></Button>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Grid.Column="2">
+                <Button x:Name="deleteProduct"  Background="#FF4572A0"  Content="{DynamicResource delete}"  Height="52" Foreground="White" FontSize="18" Margin="10 15 10 15" Click="deleteProduct_Click"></Button>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Grid.Column="3">
+                <Button x:Name="searchProduct"  Background="#FF4572A0"  Content="{DynamicResource search}"  Height="52" Foreground="White" FontSize="18" Margin="10 15 10 15" Click="searchProduct_Click"></Button>
+            </StackPanel>
+            
+            <StackPanel Grid.Row="1" Grid.Column="4">
+                <Button x:Name="filtrProduct"  Background="#FF4572A0"  Content="{DynamicResource filter}"  Height="52" Foreground="White" FontSize="18" Margin="10 15 10 15" Click="filtrProduct_Click" Style="{StaticResource MyButtonStyle}"></Button>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Grid.Column="5" >
+                <TextBox x:Name="search" Background="#FF4572A0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Foreground="White" HorizontalAlignment="Center" Margin="20 30 20 20" Width="170" Height="30" FontSize="18"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Grid.Column="6" >
+                <ComboBox x:Name="filterProduct" VerticalAlignment="Center" HorizontalAlignment="Center" Width="140" BorderThickness="0,0,0,0" Background="#FF4572A0" Height="30" Margin="0,5,0,40" SelectionChanged="filterProduct_SelectionChanged">
+                    <TextBlock>Формат</TextBlock>
+                </ComboBox>
+            </StackPanel>
+
+            <StackPanel  Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="7" Margin="0,0,0,132">
+                <DataGrid x:Name="Products" d:ItemsSource="{d:SampleData ItemCount=5}" ColumnWidth="*" RowHeight="60" FontSize="20" Margin="20 20 20 20"/>
+            </StackPanel>
+
+            <StackPanel Grid.Column="6" Grid.Row="1">
+            <TextBox x:Name="tb_filterType"  TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="140" Height="30" FontSize="18" Background="LightGray" Margin="0,40,0,0" Visibility="Hidden"/>
+            </StackPanel>
+        </Grid>
+        
+        
+    </Grid>
+</Window>

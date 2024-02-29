@@ -1,0 +1,36 @@
+E:\My File\belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\PP03.csproj.AssemblyReference.cache
+E:\My File\belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\PP03.GeneratedMSBuildEditorConfig.editorconfig
+E:\My File\belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\PP03.AssemblyInfoInputs.cache
+E:\My File\belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\PP03.AssemblyInfo.cs
+E:\My File\belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\PP03.csproj.CoreCompileInputs.cache
+E:\My File\belstu\2k2s\PP\laba3\laba3\PP03\bin\Debug\net7.0\PP03.exe
+E:\My File\belstu\2k2s\PP\laba3\laba3\PP03\bin\Debug\net7.0\PP03.deps.json
+E:\My File\belstu\2k2s\PP\laba3\laba3\PP03\bin\Debug\net7.0\PP03.runtimeconfig.json
+E:\My File\belstu\2k2s\PP\laba3\laba3\PP03\bin\Debug\net7.0\PP03.dll
+E:\My File\belstu\2k2s\PP\laba3\laba3\PP03\bin\Debug\net7.0\PP03.pdb
+E:\My File\belstu\2k2s\PP\laba3\laba3\PP03\bin\Debug\net7.0\Lec03LibN.dll
+E:\My File\belstu\2k2s\PP\laba3\laba3\PP03\bin\Debug\net7.0\Lec03LibN.pdb
+E:\My File\belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\PP03.csproj.CopyComplete
+E:\My File\belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\PP03.dll
+E:\My File\belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\refint\PP03.dll
+E:\My File\belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\PP03.pdb
+E:\My File\belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\PP03.genruntimeconfig.cache
+E:\My File\belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\ref\PP03.dll
+E:\Belstu\2k2s\PP\laba3\laba3\PP03\bin\Debug\net7.0\PP03.exe
+E:\Belstu\2k2s\PP\laba3\laba3\PP03\bin\Debug\net7.0\PP03.deps.json
+E:\Belstu\2k2s\PP\laba3\laba3\PP03\bin\Debug\net7.0\PP03.runtimeconfig.json
+E:\Belstu\2k2s\PP\laba3\laba3\PP03\bin\Debug\net7.0\PP03.dll
+E:\Belstu\2k2s\PP\laba3\laba3\PP03\bin\Debug\net7.0\PP03.pdb
+E:\Belstu\2k2s\PP\laba3\laba3\PP03\bin\Debug\net7.0\Lec03LibN.dll
+E:\Belstu\2k2s\PP\laba3\laba3\PP03\bin\Debug\net7.0\Lec03LibN.pdb
+E:\Belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\PP03.csproj.AssemblyReference.cache
+E:\Belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\PP03.GeneratedMSBuildEditorConfig.editorconfig
+E:\Belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\PP03.AssemblyInfoInputs.cache
+E:\Belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\PP03.AssemblyInfo.cs
+E:\Belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\PP03.csproj.CoreCompileInputs.cache
+E:\Belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\PP03.csproj.CopyComplete
+E:\Belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\PP03.dll
+E:\Belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\refint\PP03.dll
+E:\Belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\PP03.pdb
+E:\Belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\PP03.genruntimeconfig.cache
+E:\Belstu\2k2s\PP\laba3\laba3\PP03\obj\Debug\net7.0\ref\PP03.dll

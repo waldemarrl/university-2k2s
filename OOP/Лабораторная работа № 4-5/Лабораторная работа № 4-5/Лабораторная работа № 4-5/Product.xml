@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Books>
+    <Book>
+      <NameBook>thrgfswhge</NameBook>
+      <FormatBook>RTF</FormatBook>
+      <Categories>ehnrfgbdfv</Categories>
+      <PublishingBook>«Юрайт»</PublishingBook>
+      <Country>fb ssdvs</Country>
+      <CostBook>$ 12</CostBook>
+      <SizeBook>Стандартный - 60×84/16</SizeBook>
+      <AuthorBook>Карл Маркс</AuthorBook>
+    </Book>
+  </Books>
+</Product>

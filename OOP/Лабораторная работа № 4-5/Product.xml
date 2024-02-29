@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Books>
+    <Book>
+      <NameBook>Раки на горе</NameBook>
+      <FormatBook>EPUB</FormatBook>
+      <Categories>Фэнтези</Categories>
+      <PublishingBook>«Юрайт»</PublishingBook>
+      <Country>Белгия</Country>
+      <CostBook>$ 15</CostBook>
+      <SizeBook>Маленький - 60×84/32</SizeBook>
+      <AuthorBook>Ральф Элиссон</AuthorBook>
+    </Book>
+  </Books>
+</Product>

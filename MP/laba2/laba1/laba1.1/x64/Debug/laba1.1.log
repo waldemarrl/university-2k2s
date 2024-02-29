@@ -1,0 +1,3 @@
+﻿  Combi.cpp
+E:\My File\belstu\2k2s\MP\laba2\laba1\laba1.1\Combi.cpp(41,48): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+  laba1.1.vcxproj -> E:\My File\belstu\2k2s\MP\laba2\laba1\x64\Debug\laba1.1.exe

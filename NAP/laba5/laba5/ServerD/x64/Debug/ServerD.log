@@ -1,0 +1,5 @@
+﻿  ServerD.cpp
+E:\Belstu\2k2s\NAP\laba5\laba5\ServerD\ServerD.cpp(48,89): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Belstu\2k2s\NAP\laba5\laba5\ServerD\ServerD.cpp(21,7): warning C4101: nameServer: неиспользованная локальная переменная
+E:\Belstu\2k2s\NAP\laba5\laba5\ServerD\ServerD.cpp(72): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ServerD.vcxproj -> E:\Belstu\2k2s\NAP\laba5\laba5\x64\Debug\ServerD.exe

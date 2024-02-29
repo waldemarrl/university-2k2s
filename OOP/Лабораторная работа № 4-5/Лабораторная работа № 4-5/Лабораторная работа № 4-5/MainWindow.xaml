@@ -1,0 +1,155 @@
+﻿<Window x:Class="Лабораторная_работа___4_5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Лабораторная_работа___4_5"
+        mc:Ignorable="d"
+        Title="Продажа книг" Height="600" Width="1080" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Foreground ="white">
+
+    <Window.CommandBindings>
+        <CommandBinding Command="local:WindowCommands.Exit" Executed="Exit_Executed"/>
+    </Window.CommandBindings>
+
+    <Window.Resources>
+        <Storyboard x:Key="MenuOpen">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Width)" Storyboard.TargetName="GridMenu">
+                <EasingDoubleKeyFrame KeyTime="0" Value="60"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="200"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+
+        <Storyboard x:Key="MenuClose">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Width)" Storyboard.TargetName="GridMenu">
+                <EasingDoubleKeyFrame KeyTime="0" Value="200"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="60"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+
+        <ControlTemplate TargetType="Button" x:Key ="btTemplate">
+            <Border CornerRadius="25" BorderBrush="CadetBlue" BorderThickness="2"
+                    Background="LightBlue" Height="52" Width="250">
+                <ContentControl Margin="5" HorizontalAlignment="Center" VerticalAlignment="Center" Content="{DynamicResource buttonNow}" />
+            </Border>
+        </ControlTemplate>
+
+    </Window.Resources>
+
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="ButtonBase.Click" SourceName="ButtonOpenMenu">
+            <BeginStoryboard Storyboard="{StaticResource MenuOpen}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="ButtonBase.Click" SourceName="ButtonCloseMenu">
+            <BeginStoryboard Storyboard="{StaticResource MenuClose}"/>
+        </EventTrigger>
+    </Window.Triggers>
+
+    <Grid x:Name="Back" Style="{DynamicResource mainBackground}">
+            
+            <Grid x:Name="Header" Height="60" VerticalAlignment ="Top" Background="#FF13688D" MouseDown="Grid_MouseDown" >
+            <TextBlock Text="{DynamicResource appProducts}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="20 0">
+                <Button x:Name="ChangeThemes" Height="30" Width="30" Margin="0 0 5 0" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" Click="ChangeThemes_Click">
+                    <Image Source="Resources/Themes.png"/>
+                </Button>
+                <Button x:Name="ButtonEnglish" Height="30" Width="30" Margin="0 0 5 0" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" Click="ButtonEnglish_Click">
+                    <Image Source="Resources/English.png"/>
+                </Button>
+                <Button x:Name="ButtonRussian" Height="30" Width="30" Margin="0 0 5 0" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" Click="ButtonRussian_Click">
+                    <Image Source="Resources/Russian.png"/>
+                </Button>
+                <Button x:Name="ButtonCloseApp" Height="30" Width="30" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" Command="local:WindowCommands.Exit">
+                    <Image Source="Resources/close.png"/>
+                </Button>
+            </StackPanel>
+            </Grid>
+            
+            <Grid x:Name="GridMenu" Width="60" HorizontalAlignment="Left" Background="#FF1F3D68">
+                <StackPanel>
+                    <Grid Height="150" Background="white">
+                    <Button x:Name="ButtonCloseMenu" Width="60" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Right" Visibility="Collapsed" Click="ButtonCloseMenu_Click">
+                            <Image Source="Resources/array.png" Width="30" Height="30"/>
+                        </Button>
+                        <Button x:Name="ButtonOpenMenu" Width="60" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Right" Click="ButtonOpenMenu_Click">
+                            <Image Source="Resources/menu.png" Width="30" Height="30"/>
+                        </Button>
+                    </Grid>
+
+                <ListView ScrollViewer.HorizontalScrollBarVisibility="Disabled" Foreground="Wheat" Background="#FF1F3D68">
+                        <ListViewItem Height="60">
+                            <StackPanel Orientation="Horizontal">
+                                <Button x:Name="addProduct" Width="52" Height="52" Background="{x:Null}" BorderBrush="{x:Null}" Click="addProduct_Click">
+                                     <Image Source="Resources/add.png" Width="30" Height="30" Margin="10" VerticalAlignment="Center" />
+                                </Button>
+                            <TextBlock Text="{DynamicResource addProduct}" VerticalAlignment="Center" Margin="20 10"/>
+                            </StackPanel>
+                        </ListViewItem>
+
+                    <ListViewItem Height="60">
+                        <StackPanel Orientation="Horizontal">
+                            <Button x:Name="ShowProduct" Width="52" Height="53" Background="{x:Null}" BorderBrush="{x:Null}" Click="ShowProduct_Click">
+                                <Image Source="Resources/basket.png" Width="30" Height="30" Margin="10" VerticalAlignment="Center"/>
+                            </Button>
+                            <TextBlock Text="{DynamicResource allProduct}" VerticalAlignment="Center" Margin="20 10"/>
+                        </StackPanel>
+                    </ListViewItem>
+                </ListView>
+                    
+                </StackPanel>
+            </Grid>
+            
+            <Grid Margin="220 75 25 0" VerticalAlignment="Top" Background="White" Height="510" >
+                <Grid.Effect>
+                    <DropShadowEffect BlurRadius="20" ShadowDepth="1"/>
+                </Grid.Effect>
+                <Image Source="Resources/BackBook.jpeg" HorizontalAlignment="Left" Margin="150 0" Height="410"/>
+                <ListView Width="80" HorizontalAlignment="Left" Margin="80 50">
+                    <ListViewItem Height="70" Width="70">
+                        <Image Source="Resources/BookRight.jpg"/>
+                    </ListViewItem>
+                <ListViewItem Height="70" Width="70">
+                    <Image Source="Resources/BookL.jpg"/>
+                </ListViewItem>
+                <ListViewItem Height="70" Width="70">
+                    <Image Source="Resources/BookSize.jpg"/>
+                </ListViewItem>
+                <ListViewItem Height="70" Width="70">
+                    <Image Source="Resources/1.jpg"/>
+                </ListViewItem>
+                <ListViewItem Height="70" Width="70">
+                    <Image Source="Resources/2.jpg"/>
+                </ListViewItem>
+                </ListView>
+                <StackPanel x:Name="InfoBook" Margin="500 70 70 70" HorizontalAlignment="Left">
+                <TextBlock Text="{DynamicResource title}" FontSize="18" Margin="0 5" Foreground="#FF6A6A6A"/>
+                    <TextBlock Text="{DynamicResource description}" FontSize="22" TextWrapping="Wrap" Margin="0 5" Foreground="#FF6A6A6A"/>
+                    <TextBlock Text="#89432" FontSize="8" Margin="0 5" Foreground="#FFC7C7C7"/>
+                <TextBlock Text="$ 20" FontSize="20" Margin="0 15" Foreground="#FFC7C7C7"/>
+                <Button Template="{StaticResource btTemplate}" Margin="0 20" Foreground="White" FontSize="18"></Button>
+                </StackPanel >
+                
+            <StackPanel HorizontalAlignment="Left" Height="60" Width="60" Margin="410 445 0 0" Background="Wheat">
+                <Button HorizontalAlignment="Center" Height="52" Width="50" Background="LightGray" PreviewMouseDown="Tunneling_MouseDown" Margin="0 4 0 0">
+                    <Rectangle Width="40" Height="40" Fill="LightGreen" PreviewMouseDown="Tunneling_MouseDown"/>
+                </Button>
+            </StackPanel>
+            
+            <Button HorizontalAlignment="Left" Height="70" Width="70" Margin="475 440 0 0" Background="Wheat" Click="Outer_Click">
+                <Button Height="60" Width="60" VerticalAlignment="Center" HorizontalAlignment="Center" Background="LightGray" Click="Outer_Click">
+                    <Button Width="45" Height="45" Background="LightGreen" Click="Outer_Click"/>
+                </Button>
+            </Button>
+
+            <Button x:Name="First" HorizontalAlignment="Left" Height="70" Width="70" Margin="550 440 0 0" Background="Wheat" Click="First_Click">
+                <Button x:Name="Second" Height="60" Width="60" VerticalAlignment="Center" HorizontalAlignment="Center" Background="LightGray" Click="Second_Click">
+                    <Button x:Name="Third" Width="45" Height="45" Background="LightGreen" Click="Third_Click"/>
+                </Button>
+            </Button>
+            
+                
+                
+        </Grid>
+            
+        </Grid>
+
+</Window>

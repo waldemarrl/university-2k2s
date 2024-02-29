@@ -1,0 +1,72 @@
+﻿<Window x:Class="lab9.Insert"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:lab9"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="505"
+      Title="Insert" Height="760" Width="450" Background="Snow">
+
+    <Grid>
+
+        <Label Content="INSERT DATA" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Foreground="#FF505050" FontSize="48"
+               FontWeight="Bold"/>
+
+        <Label Content="ID_AUTHOR" HorizontalAlignment="Left" Margin="33,118,0,0" VerticalAlignment="Top"
+               Foreground="#FF505050" FontWeight="Bold" FontSize="18"/>
+        <TextBox x:Name="id_authorTextBox" HorizontalAlignment="Left" VerticalContentAlignment="Center"
+                 Margin="33,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148" Height="33"
+                 Background="Gainsboro" BorderBrush="Black" FontSize="16"/>
+
+        <Label Content="FIO_AUTHOR" HorizontalAlignment="Left" Margin="33,188,0,0" VerticalAlignment="Top" Foreground="#FF505050" FontWeight="Bold" FontSize="18"/>
+        <TextBox x:Name="fio_authorTextBox" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="33,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148" Height="33" Background="Gainsboro" BorderBrush="Black" FontSize="16"/>
+
+        <Label Content="ID_BOOK" HorizontalAlignment="Left" Margin="33,258,0,0" VerticalAlignment="Top"
+               Foreground="#FF505050" FontWeight="Bold" FontSize="18"/>
+        <TextBox x:Name="id_bookTextBox" HorizontalAlignment="Left" VerticalContentAlignment="Center" 
+                 Margin="33,292,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148" 
+                 Height="33" Background="Gainsboro" BorderBrush="Black" FontSize="16"/>
+
+        <Label Content="NAME_BOOK" HorizontalAlignment="Left" Margin="269,118,0,0" VerticalAlignment="Top" Foreground="#FF505050" FontWeight="Bold" FontSize="18"/>
+        <TextBox x:Name="name_bookTextBox" HorizontalAlignment="Left" VerticalContentAlignment="Center" Margin="269,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148" Height="33" Background="Gainsboro" BorderBrush="Black" FontSize="16"/>
+
+        <Label Content="THE_YEAR_OF_PUBL" HorizontalAlignment="Left" Margin="269,188,0,0"
+               VerticalAlignment="Top" Foreground="#FF505050" FontWeight="Bold" FontSize="18"/>
+        <TextBox x:Name="the_year_of_publishingTextBox" HorizontalAlignment="Left" 
+                 VerticalContentAlignment="Center" Margin="269,222,0,0" TextWrapping="Wrap" 
+                 VerticalAlignment="Top" Width="148" Height="33" Background="Gainsboro" BorderBrush="Black" FontSize="16"/>
+
+        <Label Content="COUNT_BOOKS" HorizontalAlignment="Left" Margin="269,258,0,0" 
+               VerticalAlignment="Top" Foreground="#FF505050" FontWeight="Bold" FontSize="18"/>
+        <TextBox x:Name="count_booksTextBox" HorizontalAlignment="Left" 
+                 VerticalContentAlignment="Center" Margin="269,292,0,0" TextWrapping="Wrap" 
+                 VerticalAlignment="Top" Width="148" Height="33" Background="Gainsboro" 
+                 BorderBrush="Black" FontSize="16"/>
+
+        <Label Content="ID_EDITION" HorizontalAlignment="Left" Margin="269,330,0,0" 
+               VerticalAlignment="Top" Foreground="#FF505050" FontWeight="Bold" FontSize="18"/>
+        <TextBox x:Name="id_editionTextBox" HorizontalAlignment="Left"
+                 VerticalContentAlignment="Center" Margin="269,364,0,0" TextWrapping="Wrap" 
+                 VerticalAlignment="Top" Width="148" Height="33" Background="Gainsboro" 
+                 BorderBrush="Black" FontSize="16"/>
+
+        <Label Content="DATE_EDITION" HorizontalAlignment="Left" Margin="33,330,0,0" 
+               VerticalAlignment="Top" Foreground="#FF505050" FontWeight="Bold" FontSize="18"/>
+        <TextBox x:Name="date_editionTextBox" HorizontalAlignment="Left" 
+                 VerticalContentAlignment="Center" Margin="33,364,0,0" TextWrapping="Wrap" 
+                 VerticalAlignment="Top" Width="148" Height="33" Background="Gainsboro" 
+                 BorderBrush="Black" FontSize="16"/>
+
+        <Label Content="DATE_SURRENDER" HorizontalAlignment="Left" Margin="156,402,0,0" 
+               VerticalAlignment="Top" Foreground="#FF505050" FontWeight="Bold" FontSize="18"/>
+        <TextBox x:Name="date_surrenderTextBox" HorizontalAlignment="Left" 
+                 VerticalContentAlignment="Center" Margin="162,434,0,0" TextWrapping="Wrap" 
+                 VerticalAlignment="Top" Width="148" Height="33" Background="Gainsboro" 
+                 BorderBrush="Black" FontSize="16"/>
+
+        <Button Content="INSERT" HorizontalAlignment="Left" Margin="118,499,0,0" VerticalAlignment="Top" Height="75" Width="236" Background="Snow" Foreground="#FF505050" BorderBrush="Black" FontSize="36" FontWeight="Bold" Click="Button_Click"/>
+
+
+    </Grid>
+</Window>

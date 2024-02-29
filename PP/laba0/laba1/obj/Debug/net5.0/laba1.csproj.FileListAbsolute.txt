@@ -1,0 +1,16 @@
+D:\belstu\2k2s\PP\laba1\laba1\bin\Debug\net5.0\laba1.exe
+D:\belstu\2k2s\PP\laba1\laba1\bin\Debug\net5.0\laba1.deps.json
+D:\belstu\2k2s\PP\laba1\laba1\bin\Debug\net5.0\laba1.runtimeconfig.json
+D:\belstu\2k2s\PP\laba1\laba1\bin\Debug\net5.0\laba1.runtimeconfig.dev.json
+D:\belstu\2k2s\PP\laba1\laba1\bin\Debug\net5.0\laba1.dll
+D:\belstu\2k2s\PP\laba1\laba1\bin\Debug\net5.0\ref\laba1.dll
+D:\belstu\2k2s\PP\laba1\laba1\bin\Debug\net5.0\laba1.pdb
+D:\belstu\2k2s\PP\laba1\laba1\obj\Debug\net5.0\laba1.csproj.AssemblyReference.cache
+D:\belstu\2k2s\PP\laba1\laba1\obj\Debug\net5.0\laba1.GeneratedMSBuildEditorConfig.editorconfig
+D:\belstu\2k2s\PP\laba1\laba1\obj\Debug\net5.0\laba1.AssemblyInfoInputs.cache
+D:\belstu\2k2s\PP\laba1\laba1\obj\Debug\net5.0\laba1.AssemblyInfo.cs
+D:\belstu\2k2s\PP\laba1\laba1\obj\Debug\net5.0\laba1.csproj.CoreCompileInputs.cache
+D:\belstu\2k2s\PP\laba1\laba1\obj\Debug\net5.0\laba1.dll
+D:\belstu\2k2s\PP\laba1\laba1\obj\Debug\net5.0\ref\laba1.dll
+D:\belstu\2k2s\PP\laba1\laba1\obj\Debug\net5.0\laba1.pdb
+D:\belstu\2k2s\PP\laba1\laba1\obj\Debug\net5.0\laba1.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DataBaseLaba11Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="SHOP">
+    <Key>
+      <PropertyRef Name="ID_PRODUCT" />
+    </Key>
+    <Property Name="ID_PRODUCT" Type="Int32" Nullable="false" />
+    <Property Name="NAME_PRODUCT" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="PRICE_PRODUCT" Type="Int32" />
+    <Property Name="COUNT_PRODUCT" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="DataBaseLaba11Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="SHOP" EntityType="Self.SHOP" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,11 @@
+E:\My File\belstu\2k2s\OOP\laba1\laba1\bin\Debug\laba1.exe.config
+E:\My File\belstu\2k2s\OOP\laba1\laba1\bin\Debug\laba1.exe
+E:\My File\belstu\2k2s\OOP\laba1\laba1\bin\Debug\laba1.pdb
+E:\My File\belstu\2k2s\OOP\laba1\laba1\obj\Debug\laba1.csproj.AssemblyReference.cache
+E:\My File\belstu\2k2s\OOP\laba1\laba1\obj\Debug\laba1.csproj.SuggestedBindingRedirects.cache
+E:\My File\belstu\2k2s\OOP\laba1\laba1\obj\Debug\laba1.Properties.Resources.resources
+E:\My File\belstu\2k2s\OOP\laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.cache
+E:\My File\belstu\2k2s\OOP\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+E:\My File\belstu\2k2s\OOP\laba1\laba1\obj\Debug\laba1.exe
+E:\My File\belstu\2k2s\OOP\laba1\laba1\obj\Debug\laba1.pdb
+E:\My File\belstu\2k2s\OOP\laba1\laba1\obj\Debug\laba1.Form1.resources

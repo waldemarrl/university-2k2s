@@ -1,0 +1,3 @@
+﻿  ClientD.cpp
+E:\Belstu\2k2s\NAP\laba5\laba5\ClientD\ClientD.cpp(30): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ClientD.vcxproj -> E:\Belstu\2k2s\NAP\laba5\laba5\x64\Debug\ClientD.exe

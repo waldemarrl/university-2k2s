@@ -1,0 +1,24 @@
+E:\My File\belstu\2k2s\PP\laba3\laba3\Lec03LibN\obj\Debug\net7.0\Lec03LibN.csproj.AssemblyReference.cache
+E:\My File\belstu\2k2s\PP\laba3\laba3\Lec03LibN\obj\Debug\net7.0\Lec03LibN.GeneratedMSBuildEditorConfig.editorconfig
+E:\My File\belstu\2k2s\PP\laba3\laba3\Lec03LibN\obj\Debug\net7.0\Lec03LibN.AssemblyInfoInputs.cache
+E:\My File\belstu\2k2s\PP\laba3\laba3\Lec03LibN\obj\Debug\net7.0\Lec03LibN.AssemblyInfo.cs
+E:\My File\belstu\2k2s\PP\laba3\laba3\Lec03LibN\obj\Debug\net7.0\Lec03LibN.csproj.CoreCompileInputs.cache
+E:\My File\belstu\2k2s\PP\laba3\laba3\Lec03LibN\bin\Debug\net7.0\Lec03LibN.deps.json
+E:\My File\belstu\2k2s\PP\laba3\laba3\Lec03LibN\bin\Debug\net7.0\Lec03LibN.dll
+E:\My File\belstu\2k2s\PP\laba3\laba3\Lec03LibN\bin\Debug\net7.0\Lec03LibN.pdb
+E:\My File\belstu\2k2s\PP\laba3\laba3\Lec03LibN\obj\Debug\net7.0\Lec03LibN.dll
+E:\My File\belstu\2k2s\PP\laba3\laba3\Lec03LibN\obj\Debug\net7.0\refint\Lec03LibN.dll
+E:\My File\belstu\2k2s\PP\laba3\laba3\Lec03LibN\obj\Debug\net7.0\Lec03LibN.pdb
+E:\My File\belstu\2k2s\PP\laba3\laba3\Lec03LibN\obj\Debug\net7.0\ref\Lec03LibN.dll
+E:\Belstu\2k2s\PP\laba3\laba3\Lec03LibN\obj\Debug\net7.0\Lec03LibN.csproj.AssemblyReference.cache
+E:\Belstu\2k2s\PP\laba3\laba3\Lec03LibN\obj\Debug\net7.0\Lec03LibN.GeneratedMSBuildEditorConfig.editorconfig
+E:\Belstu\2k2s\PP\laba3\laba3\Lec03LibN\obj\Debug\net7.0\Lec03LibN.AssemblyInfoInputs.cache
+E:\Belstu\2k2s\PP\laba3\laba3\Lec03LibN\obj\Debug\net7.0\Lec03LibN.AssemblyInfo.cs
+E:\Belstu\2k2s\PP\laba3\laba3\Lec03LibN\obj\Debug\net7.0\Lec03LibN.csproj.CoreCompileInputs.cache
+E:\Belstu\2k2s\PP\laba3\laba3\Lec03LibN\obj\Debug\net7.0\Lec03LibN.dll
+E:\Belstu\2k2s\PP\laba3\laba3\Lec03LibN\obj\Debug\net7.0\refint\Lec03LibN.dll
+E:\Belstu\2k2s\PP\laba3\laba3\Lec03LibN\obj\Debug\net7.0\Lec03LibN.pdb
+E:\Belstu\2k2s\PP\laba3\laba3\Lec03LibN\bin\Debug\net7.0\Lec03LibN.deps.json
+E:\Belstu\2k2s\PP\laba3\laba3\Lec03LibN\bin\Debug\net7.0\Lec03LibN.dll
+E:\Belstu\2k2s\PP\laba3\laba3\Lec03LibN\bin\Debug\net7.0\Lec03LibN.pdb
+E:\Belstu\2k2s\PP\laba3\laba3\Lec03LibN\obj\Debug\net7.0\ref\Lec03LibN.dll

@@ -1,0 +1,15 @@
+E:\My File\belstu\2k2s\PP\laba1\laba1\laba1\obj\Debug\net7.0\laba1.csproj.AssemblyReference.cache
+E:\My File\belstu\2k2s\PP\laba1\laba1\laba1\obj\Debug\net7.0\laba1.GeneratedMSBuildEditorConfig.editorconfig
+E:\My File\belstu\2k2s\PP\laba1\laba1\laba1\obj\Debug\net7.0\laba1.AssemblyInfoInputs.cache
+E:\My File\belstu\2k2s\PP\laba1\laba1\laba1\obj\Debug\net7.0\laba1.AssemblyInfo.cs
+E:\My File\belstu\2k2s\PP\laba1\laba1\laba1\obj\Debug\net7.0\laba1.csproj.CoreCompileInputs.cache
+E:\My File\belstu\2k2s\PP\laba1\laba1\laba1\bin\Debug\net7.0\laba1.exe
+E:\My File\belstu\2k2s\PP\laba1\laba1\laba1\bin\Debug\net7.0\laba1.deps.json
+E:\My File\belstu\2k2s\PP\laba1\laba1\laba1\bin\Debug\net7.0\laba1.runtimeconfig.json
+E:\My File\belstu\2k2s\PP\laba1\laba1\laba1\bin\Debug\net7.0\laba1.dll
+E:\My File\belstu\2k2s\PP\laba1\laba1\laba1\bin\Debug\net7.0\laba1.pdb
+E:\My File\belstu\2k2s\PP\laba1\laba1\laba1\obj\Debug\net7.0\laba1.dll
+E:\My File\belstu\2k2s\PP\laba1\laba1\laba1\obj\Debug\net7.0\refint\laba1.dll
+E:\My File\belstu\2k2s\PP\laba1\laba1\laba1\obj\Debug\net7.0\laba1.pdb
+E:\My File\belstu\2k2s\PP\laba1\laba1\laba1\obj\Debug\net7.0\laba1.genruntimeconfig.cache
+E:\My File\belstu\2k2s\PP\laba1\laba1\laba1\obj\Debug\net7.0\ref\laba1.dll

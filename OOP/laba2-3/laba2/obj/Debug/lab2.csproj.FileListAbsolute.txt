@@ -1,0 +1,134 @@
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\lab2.exe.config
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\lab2.exe
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\lab2.pdb
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\obj\Debug\lab2.Form1.resources
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\obj\Debug\lab2.exe
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\obj\Debug\lab2.pdb
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\System.Buffers.dll
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\System.Memory.dll
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\System.Numerics.Vectors.dll
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\System.Text.Encodings.Web.dll
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\System.Text.Json.dll
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\System.ValueTuple.dll
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\System.Buffers.xml
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\System.Memory.xml
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\System.Numerics.Vectors.xml
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\System.Text.Encodings.Web.xml
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\System.Text.Json.xml
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\bin\Debug\System.ValueTuple.xml
+D:\Study\2с2s\LB_doing\OOP\lab2\lab2\obj\Debug\lab2.csproj.CopyComplete
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\lab2.exe.config
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\lab2.exe
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\lab2.pdb
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\System.Buffers.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\System.Memory.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\System.Numerics.Vectors.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\System.Text.Encodings.Web.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\System.Text.Json.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\System.ValueTuple.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\System.Buffers.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\System.Memory.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\System.Numerics.Vectors.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\System.Text.Encodings.Web.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\System.Text.Json.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\System.ValueTuple.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\obj\Debug\lab2.Form1.resources
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\obj\Debug\lab2.csproj.CopyComplete
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\obj\Debug\lab2.exe
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\obj\Debug\lab2.pdb
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\Newtonsoft.Json.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\Newtonsoft.Json.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\obj\Debug\lab2.Search.resources
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\obj\Debug\lab2.Sort.resources
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\Архив WinRAR (3)\lab2\lab2\bin\Debug\System.ComponentModel.Annotations.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\lab2.exe.config
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\lab2.exe
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\lab2.pdb
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\Newtonsoft.Json.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\System.Buffers.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\System.ComponentModel.Annotations.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\System.Memory.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\System.Numerics.Vectors.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\System.Text.Encodings.Web.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\System.Text.Json.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\System.ValueTuple.dll
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\Newtonsoft.Json.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\System.Buffers.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\System.Memory.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\System.Numerics.Vectors.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\System.Text.Encodings.Web.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\System.Text.Json.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\bin\Debug\System.ValueTuple.xml
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\obj\Debug\lab2.Form1.resources
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\obj\Debug\lab2.Search.resources
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\obj\Debug\lab2.Sort.resources
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\obj\Debug\lab2.csproj.CopyComplete
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\obj\Debug\lab2.exe
+C:\BSTU\2 kurs\2 kurs 2 sem\OOP\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\System.Buffers.dll
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\System.Memory.dll
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\System.Text.Json.dll
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\System.ValueTuple.dll
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\System.Buffers.xml
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\System.Memory.xml
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\System.Text.Json.xml
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\bin\Debug\System.ValueTuple.xml
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\obj\Debug\lab2.Search.resources
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\obj\Debug\lab2.Sort.resources
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\obj\Debug\lab2.csproj.CopyComplete
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\walde\Downloads\lab2 (2)\lab2\lab2\obj\Debug\lab2.pdb

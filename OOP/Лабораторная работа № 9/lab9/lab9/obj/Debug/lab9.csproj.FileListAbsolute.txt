@@ -1,0 +1,119 @@
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9.csproj.SuggestedBindingRedirects.cache
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\Insert.g.cs
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\MainWindow.g.cs
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\Update.g.cs
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\App.g.cs
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9_Content.g.cs
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9_MarkupCompile.cache
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9_MarkupCompile.lref
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\lab9.exe.config
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\lab9.exe
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\lab9.pdb
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\EntityFramework.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\EntityFramework.SqlServer.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Identity.Client.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Newtonsoft.Json.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.Buffers.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.Collections.Immutable.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.Data.SqlClient.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.Memory.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.Numerics.Vectors.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\EntityFramework.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\EntityFramework.SqlServer.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.Identity.Client.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\Newtonsoft.Json.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.Buffers.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.Collections.Immutable.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.Data.SqlClient.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.Memory.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.Numerics.Vectors.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\ru\EntityFramework.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\Insert.baml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\MainWindow.baml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\Update.baml
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9.g.resources
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9.Properties.Resources.resources
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9.csproj.GenerateResource.cache
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9.csproj.CopyComplete
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9.exe
+D:\ООП и Паттерн программирование 2 СЕМ\ООП\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9.pdb
+E:\Belstu\2k2s\OOP\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+E:\Belstu\2k2s\OOP\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9.csproj.SuggestedBindingRedirects.cache
+E:\Belstu\2k2s\OOP\Лабораторная работа № 9\lab9\lab9\obj\Debug\Insert.g.cs
+E:\Belstu\2k2s\OOP\Лабораторная работа № 9\lab9\lab9\obj\Debug\MainWindow.g.cs
+E:\Belstu\2k2s\OOP\Лабораторная работа № 9\lab9\lab9\obj\Debug\Update.g.cs
+E:\Belstu\2k2s\OOP\Лабораторная работа № 9\lab9\lab9\obj\Debug\App.g.cs
+E:\Belstu\2k2s\OOP\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9_Content.g.cs
+E:\Belstu\2k2s\OOP\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9_MarkupCompile.cache
+E:\Belstu\2k2s\OOP\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9_MarkupCompile.lref
+E:\Belstu\2k2s\OOP\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9.exe
+E:\Belstu\2k2s\OOP\Лабораторная работа № 9\lab9\lab9\obj\Debug\lab9.pdb

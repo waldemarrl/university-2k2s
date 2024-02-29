@@ -1,0 +1,29 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:v="clr-namespace:System;assembly=mscorlib">
+
+    <v:String x:Key="appProducts">Приложение для продажи книг</v:String>
+    <v:String x:Key="title">Мальчик в полосатой пижаме</v:String>
+    <v:String x:Key="description">Это история о Второй мировой войне, какой она видится девятилетнему немецкому мальчику Бруно.</v:String>
+    <v:String x:Key="buttonNow">Купить сейчас</v:String>
+    <v:String x:Key="addProduct">Добавить продукт</v:String>
+    <v:String x:Key="allProduct">Все товары</v:String>
+
+    <v:String x:Key="addBook">Добавить</v:String>
+    <v:String x:Key="clear">Очистить</v:String>
+    <v:String x:Key="addB">Страница для добавление книги</v:String>
+    <v:String x:Key="nameBook">Название книги</v:String>
+    <v:String x:Key="formatBook">Формат книги</v:String>
+    <v:String x:Key="categoriesBook">Категория книги</v:String>
+    <v:String x:Key="publishingBook">Издательство книги</v:String>
+    <v:String x:Key="countryBook">Страна производства</v:String>
+    <v:String x:Key="costBook">Стоимость книги</v:String>
+    <v:String x:Key="sizeBook">Размер файла книги</v:String>
+    <v:String x:Key="authorBook">Автор книги</v:String>
+
+    <v:String x:Key="add">Добавить</v:String>
+    <v:String x:Key="edit">Изменить</v:String>
+    <v:String x:Key="delete">Удалить</v:String>
+    <v:String x:Key="search">Поиск</v:String>
+    <v:String x:Key="filter">Фильтрация</v:String>
+    
+</ResourceDictionary>

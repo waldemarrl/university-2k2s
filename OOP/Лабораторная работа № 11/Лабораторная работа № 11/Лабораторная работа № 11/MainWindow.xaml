@@ -1,0 +1,43 @@
+﻿<Window x:Class="Лабораторная_работа___11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Лабораторная_работа___11" xmlns:vm="clr-namespace:Лабораторная_работа___11.ViewModel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.DataContext>
+        <vm:MainViewModel/>
+    </Window.DataContext>
+    <Grid UseLayoutRounding="False" Background="DarkCyan">
+        <DataGrid x:Name="shop" HorizontalAlignment="Left" ItemsSource="{Binding Shops}"
+                  Width="374" Background="DarkCyan" BorderBrush="White" IsReadOnly="True"
+                  AutoGenerateColumns="False" FontSize="14" CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="НОМЕР" Width="*" Binding="{Binding ID_PRODUCT}"/>
+                <DataGridTextColumn Header="НАЗВАНИЕ" Width="*" Binding="{Binding NAME_PRODUCT}"/>
+                <DataGridTextColumn Header="ЦЕНА" Width="*" Binding="{Binding PRICE_PRODUCT}"/>
+                <!--<DataGridTextColumn Header="КОЛИЧЕСТВО" Width="*" Binding="{Binding COUNT_PRODUCT}"/>-->
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="addButton" Content="ADD" HorizontalAlignment="Left" Height="65" 
+                Margin="501,10,0,0" VerticalAlignment="Top" Width="172" BorderBrush="Black" 
+                Background="#FFC8E3B2" FontSize="18" FontWeight="Bold" Foreground="#FF505050" 
+                Command="{Binding AddToBasketCommand}" CommandParameter="{Binding SelectedItem, ElementName = shop}"/>
+        <DataGrid x:Name="basket" HorizontalAlignment="Left" ItemsSource="{Binding Basket}"
+            Width="426" Background="#FFBECFA5" BorderBrush="White" IsReadOnly="True"
+            AutoGenerateColumns="False" FontSize="14" CanUserAddRows="False" Margin="374,217,0,-1">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="НОМЕР" Width="*" Binding="{Binding ID_PRODUCT}"/>
+                <DataGridTextColumn Header="НАЗВАНИЕ" Width="*" Binding="{Binding NAME_PRODUCT}"/>
+                <DataGridTextColumn Header="ЦЕНА" Width="*" Binding="{Binding PRICE_PRODUCT}"/>
+                <!--<DataGridTextColumn Header="КОЛИЧЕСТВО" Width="*" Binding="{Binding COUNT_PRODUCT}"/>-->
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="removeButton" Content="REMOVE" HorizontalAlignment="Left" Height="65" 
+            Margin="501,98,0,0" VerticalAlignment="Top" Width="172" BorderBrush="Black" 
+            Background="#FFC8E3B2" FontSize="18" FontWeight="Bold" Foreground="#FF505050" 
+            Command="{Binding RemoveFromBasketCommand}" CommandParameter="{Binding SelectedItem, ElementName=basket}"/>
+
+    </Grid>
+</Window>

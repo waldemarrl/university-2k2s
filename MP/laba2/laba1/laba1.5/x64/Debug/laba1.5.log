@@ -1,0 +1,4 @@
+﻿  Salesman.cpp
+E:\My File\belstu\2k2s\MP\laba2\laba1\laba1.5\Salesman.cpp(47,11): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+E:\My File\belstu\2k2s\MP\laba2\laba1\laba1.5\Salesman.cpp(55,22): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  laba1.5.vcxproj -> E:\My File\belstu\2k2s\MP\laba2\laba1\x64\Debug\laba1.5.exe

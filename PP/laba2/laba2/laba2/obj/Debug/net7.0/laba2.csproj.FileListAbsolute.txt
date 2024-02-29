@@ -1,0 +1,15 @@
+E:\My File\belstu\2k2s\PP\laba2\laba2\laba2\bin\Debug\net7.0\laba2.exe
+E:\My File\belstu\2k2s\PP\laba2\laba2\laba2\bin\Debug\net7.0\laba2.deps.json
+E:\My File\belstu\2k2s\PP\laba2\laba2\laba2\bin\Debug\net7.0\laba2.runtimeconfig.json
+E:\My File\belstu\2k2s\PP\laba2\laba2\laba2\bin\Debug\net7.0\laba2.dll
+E:\My File\belstu\2k2s\PP\laba2\laba2\laba2\bin\Debug\net7.0\laba2.pdb
+E:\My File\belstu\2k2s\PP\laba2\laba2\laba2\obj\Debug\net7.0\laba2.csproj.AssemblyReference.cache
+E:\My File\belstu\2k2s\PP\laba2\laba2\laba2\obj\Debug\net7.0\laba2.GeneratedMSBuildEditorConfig.editorconfig
+E:\My File\belstu\2k2s\PP\laba2\laba2\laba2\obj\Debug\net7.0\laba2.AssemblyInfoInputs.cache
+E:\My File\belstu\2k2s\PP\laba2\laba2\laba2\obj\Debug\net7.0\laba2.AssemblyInfo.cs
+E:\My File\belstu\2k2s\PP\laba2\laba2\laba2\obj\Debug\net7.0\laba2.csproj.CoreCompileInputs.cache
+E:\My File\belstu\2k2s\PP\laba2\laba2\laba2\obj\Debug\net7.0\laba2.dll
+E:\My File\belstu\2k2s\PP\laba2\laba2\laba2\obj\Debug\net7.0\refint\laba2.dll
+E:\My File\belstu\2k2s\PP\laba2\laba2\laba2\obj\Debug\net7.0\laba2.pdb
+E:\My File\belstu\2k2s\PP\laba2\laba2\laba2\obj\Debug\net7.0\laba2.genruntimeconfig.cache
+E:\My File\belstu\2k2s\PP\laba2\laba2\laba2\obj\Debug\net7.0\ref\laba2.dll

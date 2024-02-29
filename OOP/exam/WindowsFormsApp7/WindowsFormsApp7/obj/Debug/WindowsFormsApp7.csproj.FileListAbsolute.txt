@@ -1,0 +1,11 @@
+E:\Belstu\2k2s\OOP\exam\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\Belstu\2k2s\OOP\exam\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\Belstu\2k2s\OOP\exam\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\Belstu\2k2s\OOP\exam\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+E:\Belstu\2k2s\OOP\exam\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.SuggestedBindingRedirects.cache
+E:\Belstu\2k2s\OOP\exam\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\Belstu\2k2s\OOP\exam\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\Belstu\2k2s\OOP\exam\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\Belstu\2k2s\OOP\exam\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\Belstu\2k2s\OOP\exam\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\Belstu\2k2s\OOP\exam\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb

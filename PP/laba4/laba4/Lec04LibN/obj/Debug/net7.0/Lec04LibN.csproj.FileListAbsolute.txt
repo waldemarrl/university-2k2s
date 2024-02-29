@@ -1,0 +1,12 @@
+E:\Belstu\2k2s\PP\laba4\laba4\Lec04LibN\bin\Debug\net7.0\Lec04LibN.deps.json
+E:\Belstu\2k2s\PP\laba4\laba4\Lec04LibN\bin\Debug\net7.0\Lec04LibN.dll
+E:\Belstu\2k2s\PP\laba4\laba4\Lec04LibN\bin\Debug\net7.0\Lec04LibN.pdb
+E:\Belstu\2k2s\PP\laba4\laba4\Lec04LibN\obj\Debug\net7.0\Lec04LibN.csproj.AssemblyReference.cache
+E:\Belstu\2k2s\PP\laba4\laba4\Lec04LibN\obj\Debug\net7.0\Lec04LibN.GeneratedMSBuildEditorConfig.editorconfig
+E:\Belstu\2k2s\PP\laba4\laba4\Lec04LibN\obj\Debug\net7.0\Lec04LibN.AssemblyInfoInputs.cache
+E:\Belstu\2k2s\PP\laba4\laba4\Lec04LibN\obj\Debug\net7.0\Lec04LibN.AssemblyInfo.cs
+E:\Belstu\2k2s\PP\laba4\laba4\Lec04LibN\obj\Debug\net7.0\Lec04LibN.csproj.CoreCompileInputs.cache
+E:\Belstu\2k2s\PP\laba4\laba4\Lec04LibN\obj\Debug\net7.0\Lec04LibN.dll
+E:\Belstu\2k2s\PP\laba4\laba4\Lec04LibN\obj\Debug\net7.0\refint\Lec04LibN.dll
+E:\Belstu\2k2s\PP\laba4\laba4\Lec04LibN\obj\Debug\net7.0\Lec04LibN.pdb
+E:\Belstu\2k2s\PP\laba4\laba4\Lec04LibN\obj\Debug\net7.0\ref\Lec04LibN.dll
